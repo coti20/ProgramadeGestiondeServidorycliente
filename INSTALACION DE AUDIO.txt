@@ -1,0 +1,1 @@
+Herramientas>>>Administrador de paquetes NuGet>>>Administrador de paquetes NuGet para lo solución>>>Examinar:NAudio>>>Instalarlo

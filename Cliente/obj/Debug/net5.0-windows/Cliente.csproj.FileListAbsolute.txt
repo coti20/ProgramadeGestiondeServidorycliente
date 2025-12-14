@@ -1,0 +1,186 @@
+D:\genexus programacion II cristian sabella\backup visual redes\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.exe
+D:\genexus programacion II cristian sabella\backup visual redes\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.deps.json
+D:\genexus programacion II cristian sabella\backup visual redes\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.runtimeconfig.json
+D:\genexus programacion II cristian sabella\backup visual redes\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.runtimeconfig.dev.json
+D:\genexus programacion II cristian sabella\backup visual redes\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.dll
+D:\genexus programacion II cristian sabella\backup visual redes\Equipo\Cliente\bin\Debug\net5.0-windows\ref\Cliente.dll
+D:\genexus programacion II cristian sabella\backup visual redes\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.pdb
+D:\genexus programacion II cristian sabella\backup visual redes\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.AssemblyReference.cache
+D:\genexus programacion II cristian sabella\backup visual redes\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.Cliente.resources
+D:\genexus programacion II cristian sabella\backup visual redes\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.GenerateResource.cache
+D:\genexus programacion II cristian sabella\backup visual redes\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\genexus programacion II cristian sabella\backup visual redes\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.AssemblyInfoInputs.cache
+D:\genexus programacion II cristian sabella\backup visual redes\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.AssemblyInfo.cs
+D:\genexus programacion II cristian sabella\backup visual redes\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.CoreCompileInputs.cache
+D:\genexus programacion II cristian sabella\backup visual redes\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.dll
+D:\genexus programacion II cristian sabella\backup visual redes\Equipo\Cliente\obj\Debug\net5.0-windows\ref\Cliente.dll
+D:\genexus programacion II cristian sabella\backup visual redes\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.pdb
+D:\genexus programacion II cristian sabella\backup visual redes\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.genruntimeconfig.cache
+D:\genexus programacion II cristian sabella\backup visual redes\backup por las dudas\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.exe
+D:\genexus programacion II cristian sabella\backup visual redes\backup por las dudas\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.deps.json
+D:\genexus programacion II cristian sabella\backup visual redes\backup por las dudas\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.runtimeconfig.json
+D:\genexus programacion II cristian sabella\backup visual redes\backup por las dudas\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.runtimeconfig.dev.json
+D:\genexus programacion II cristian sabella\backup visual redes\backup por las dudas\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.dll
+D:\genexus programacion II cristian sabella\backup visual redes\backup por las dudas\Equipo\Cliente\bin\Debug\net5.0-windows\ref\Cliente.dll
+D:\genexus programacion II cristian sabella\backup visual redes\backup por las dudas\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.pdb
+D:\genexus programacion II cristian sabella\backup visual redes\backup por las dudas\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.AssemblyReference.cache
+D:\genexus programacion II cristian sabella\backup visual redes\backup por las dudas\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.Cliente.resources
+D:\genexus programacion II cristian sabella\backup visual redes\backup por las dudas\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.GenerateResource.cache
+D:\genexus programacion II cristian sabella\backup visual redes\backup por las dudas\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\genexus programacion II cristian sabella\backup visual redes\backup por las dudas\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.AssemblyInfoInputs.cache
+D:\genexus programacion II cristian sabella\backup visual redes\backup por las dudas\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.AssemblyInfo.cs
+D:\genexus programacion II cristian sabella\backup visual redes\backup por las dudas\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.CoreCompileInputs.cache
+D:\genexus programacion II cristian sabella\backup visual redes\backup por las dudas\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.dll
+D:\genexus programacion II cristian sabella\backup visual redes\backup por las dudas\Equipo\Cliente\obj\Debug\net5.0-windows\ref\Cliente.dll
+D:\genexus programacion II cristian sabella\backup visual redes\backup por las dudas\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.pdb
+D:\genexus programacion II cristian sabella\backup visual redes\backup por las dudas\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.genruntimeconfig.cache
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.exe
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.deps.json
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.runtimeconfig.json
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.runtimeconfig.dev.json
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Equipo\Cliente\bin\Debug\net5.0-windows\ref\Cliente.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.pdb
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.AssemblyReference.cache
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.Cliente.resources
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.GenerateResource.cache
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.AssemblyInfoInputs.cache
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.AssemblyInfo.cs
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Equipo\Cliente\obj\Debug\net5.0-windows\ref\Cliente.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.pdb
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.exe
+C:\Users\Usuario\Downloads\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.deps.json
+C:\Users\Usuario\Downloads\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.runtimeconfig.json
+C:\Users\Usuario\Downloads\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.runtimeconfig.dev.json
+C:\Users\Usuario\Downloads\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.dll
+C:\Users\Usuario\Downloads\Equipo\Cliente\bin\Debug\net5.0-windows\ref\Cliente.dll
+C:\Users\Usuario\Downloads\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.pdb
+C:\Users\Usuario\Downloads\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.Cliente.resources
+C:\Users\Usuario\Downloads\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.dll
+C:\Users\Usuario\Downloads\Equipo\Cliente\obj\Debug\net5.0-windows\ref\Cliente.dll
+C:\Users\Usuario\Downloads\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.pdb
+C:\Users\Usuario\Downloads\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.genruntimeconfig.cache
+C:\Users\Cristian\Downloads\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.exe
+C:\Users\Cristian\Downloads\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.deps.json
+C:\Users\Cristian\Downloads\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.runtimeconfig.json
+C:\Users\Cristian\Downloads\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.runtimeconfig.dev.json
+C:\Users\Cristian\Downloads\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.dll
+C:\Users\Cristian\Downloads\Equipo\Cliente\bin\Debug\net5.0-windows\ref\Cliente.dll
+C:\Users\Cristian\Downloads\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.pdb
+C:\Users\Cristian\Downloads\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.AssemblyReference.cache
+C:\Users\Cristian\Downloads\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.Cliente.resources
+C:\Users\Cristian\Downloads\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.GenerateResource.cache
+C:\Users\Cristian\Downloads\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\Downloads\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.AssemblyInfoInputs.cache
+C:\Users\Cristian\Downloads\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.AssemblyInfo.cs
+C:\Users\Cristian\Downloads\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Downloads\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.dll
+C:\Users\Cristian\Downloads\Equipo\Cliente\obj\Debug\net5.0-windows\ref\Cliente.dll
+C:\Users\Cristian\Downloads\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.pdb
+C:\Users\Cristian\Downloads\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.genruntimeconfig.cache
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.exe
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.deps.json
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.runtimeconfig.json
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.runtimeconfig.dev.json
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Cliente\bin\Debug\net5.0-windows\ref\Cliente.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.pdb
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.AssemblyReference.cache
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.Cliente.resources
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.GenerateResource.cache
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.AssemblyInfoInputs.cache
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.AssemblyInfo.cs
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Cliente\obj\Debug\net5.0-windows\ref\Cliente.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.pdb
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.genruntimeconfig.cache
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.exe
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.deps.json
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.runtimeconfig.json
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.runtimeconfig.dev.json
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\bin\Debug\net5.0-windows\ref\Cliente.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.pdb
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.AssemblyReference.cache
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.Cliente.resources
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.GenerateResource.cache
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.AssemblyInfoInputs.cache
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.AssemblyInfo.cs
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\obj\Debug\net5.0-windows\ref\Cliente.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.pdb
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.genruntimeconfig.cache
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.exe
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.deps.json
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.runtimeconfig.json
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.runtimeconfig.dev.json
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\bin\Debug\net5.0-windows\ref\Cliente.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.pdb
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.AssemblyReference.cache
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.Cliente.resources
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.GenerateResource.cache
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.AssemblyInfoInputs.cache
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.AssemblyInfo.cs
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\obj\Debug\net5.0-windows\ref\Cliente.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.pdb
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.genruntimeconfig.cache
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\bin\Debug\net5.0-windows\NAudio.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\bin\Debug\net5.0-windows\NAudio.Asio.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\bin\Debug\net5.0-windows\NAudio.Core.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\bin\Debug\net5.0-windows\NAudio.Midi.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\bin\Debug\net5.0-windows\NAudio.Wasapi.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\bin\Debug\net5.0-windows\NAudio.WinForms.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\bin\Debug\net5.0-windows\NAudio.WinMM.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\con tateti para entregarlo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.CopyComplete
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\bin\Debug\net5.0-windows\NAudio.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\bin\Debug\net5.0-windows\NAudio.Asio.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\bin\Debug\net5.0-windows\NAudio.Core.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\bin\Debug\net5.0-windows\NAudio.Midi.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\bin\Debug\net5.0-windows\NAudio.Wasapi.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\bin\Debug\net5.0-windows\NAudio.WinForms.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\bin\Debug\net5.0-windows\NAudio.WinMM.dll
+C:\Users\Cristian\OneDrive\Escritorio\genexus y visual redes\el ultimo que hice\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.CopyComplete
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.exe
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.deps.json
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.runtimeconfig.json
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.runtimeconfig.dev.json
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.dll
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\bin\Debug\net5.0-windows\ref\Cliente.dll
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\bin\Debug\net5.0-windows\Cliente.pdb
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\bin\Debug\net5.0-windows\NAudio.dll
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\bin\Debug\net5.0-windows\NAudio.Asio.dll
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\bin\Debug\net5.0-windows\NAudio.Core.dll
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\bin\Debug\net5.0-windows\NAudio.Midi.dll
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\bin\Debug\net5.0-windows\NAudio.Wasapi.dll
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\bin\Debug\net5.0-windows\NAudio.WinForms.dll
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\bin\Debug\net5.0-windows\NAudio.WinMM.dll
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.AssemblyReference.cache
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.Cliente.resources
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.GenerateResource.cache
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.AssemblyInfoInputs.cache
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.AssemblyInfo.cs
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.csproj.CopyComplete
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.dll
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\obj\Debug\net5.0-windows\ref\Cliente.dll
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.pdb
+C:\Users\Cristian\OneDrive\Escritorio\diseños\Equipo\este\Equipo\Equipo\Cliente\obj\Debug\net5.0-windows\Cliente.genruntimeconfig.cache
